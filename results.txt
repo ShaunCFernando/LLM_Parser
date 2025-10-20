@@ -1,0 +1,168 @@
+/Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/.venv/bin/python /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/LLM.py
+(.venv) sfern4850@Shauns-MacBook-Air PythonAutomation % /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/.venv/bin/python /Users/sfern4850/Documents/Hil
+lman_Academy_2024/PythonAutomation/LLM.py
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/876089137_789576428.txt
+Result: The patient does not present with chest pains.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/876089137_789452978.txt
+Result: The patient does not present with chest pains. According to the report, the patient's main complaint is sharp left-sided chest pain that spreads to back pain, but this is specifically mentioned as being resolved by the time of the admission to the hospital. The report notes that "My review of today chest x-ray demonstrates no definite acute cardiopulmonary process."
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/811686335_745396708.txt
+Result: Based on the report, the patient does not present with chest pains. In fact, it is mentioned in the "CHIEF COMPLAINT" section that the patient endorses a central chest tightness with sharp central chest pain worse with coughing. However, this finding is not considered significant enough to warrant further investigation or treatment for cardiac-related issues.
+
+The patient's symptoms are primarily related to her respiratory and infectious processes, including a productive cough, fevers, myalgias, and shortness of breath. The attending physician suspects that the patient's symptoms are secondary to influenza, which is supported by the patient's laboratory results and radiological findings (normal chest x-ray and electrocardiogram).
+
+Overall, while the patient does experience some central chest tightness and pain, it is not a primary concern or a significant finding in the context of her overall clinical presentation.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/805191345_750464210.txt
+Result: According to the report, the patient does not present with chest pains. There is no mention of chest pain or any related symptoms throughout the report. The patient's chief complaints include flulike symptoms, persistent pleuritic symptoms, and abdominal pain, but there is no indication of chest pain.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/875862123_780453989.txt
+Result: According to the report, the patient presents with symptoms of shortness of breath, wheezing, cough, and right lower chest pain that worsens with cough. She also reports feeling tightness in her throat. The attending physician notes that the patient's symptoms are not consistent with a diagnosis of reactive airway disease due to reassuring pulmonary function tests (PFTs) from one year prior.
+
+There is no mention of the patient presenting with chest pains, only right lower chest pain that worsens with cough.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/811686335_744979220.txt
+Result: According to the report, the patient does not present with chest pains. In fact, it is mentioned in the "HISTORY OF PRESENT ILLNESS" section that the patient endorses some chest pain with coughing only, but there is no mention of significant or worsening chest pain throughout the rest of the report.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1194635574_4462789126.txt
+Result: According to the report, the patient does not present with chest pains. Under the "Review of Systems" section, it is noted that:
+
+"CARDIOVASCULAR: No chest pain, syncope, or palpitations"
+
+This indicates that the patient did not experience any symptoms related to the cardiovascular system, including chest pain.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191655777_4464344726.txt
+Result: According to the report, the patient does NOT present with chest pains. The relevant section of the report is:
+
+"Cardiovascular: No palpitations
+Chest pain: Bilateral"
+
+The term "Bilateral" likely means that the patient experiences chest pain on both sides of their body, but it's not specified as severe or intense. Additionally, there is no mention of any other cardiovascular symptoms such as shortness of breath, dizziness, or fainting.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1170862047_4485793518.txt
+Result: According to the report, the patient does not present with chest pains. Under the "Review of Systems" section, it is stated that:
+
+"Cardiovascular: No chest pain, No palpitations."
+
+This indicates that the patient's cardiovascular system was reviewed and found to be normal, with no complaints or signs of chest pain or palpitations.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1175940552_4481991413.txt
+Result: According to the report, the patient does not present with chest pains. The report states:
+
+"LUNGS: Airway patent. No retractions. Equal chest excursion. Mild wheezing in bilateral bases, R>L. No crackles or rhonchi, no dullness to percussion."
+
+There is also an EKG report that states:
+
+"HEART: Regular rate and rhythm. No murmurs, rubs, or gallops. No JVD, no LE edema."
+
+Additionally, the report mentions that the patient was treated with Tylenol and Tessalon Perles in the ED, which suggests that they were not experiencing chest pains severe enough to require further treatment.
+
+Overall, based on the information provided, it appears that the patient did not present with chest pain.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1197107320_4460444663.txt
+Result: Based on the report, the patient does not present with chest pains. The patient's chief complaint is "Flulike symptoms" and he reports having a sore throat, fever, myalgias, and minor diarrhea, but no chest pain or shortness of breath. The report states that the patient endorses chest pain, but this is described as a mild, nonradiating sensation similar to his myalgias, which is not severe or concerning for cardiac-related issues.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/811686335_745389823.txt
+Result: Based on the report, there is no mention of chest pains. The patient's chief complaint is a cough, body aches, and fevers, and she endorses central chest tightness with sharp pain worse with coughing. However, this is not specifically stated as "chest pains" but rather described as a sensation of "central chest tightness".
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/875862123_780793432.txt
+Result: After reviewing the report, I did not find any mention of chest pains in the patient's symptoms or physical examination. The report mentions "right-sided pleuritic chest pain" under Medical Decision Making, but it appears to be a diagnosis being considered rather than an actual symptom reported by the patient.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1194919006_4461646559.txt
+Result: Upon reviewing the report, I do not see any mention of chest pains or complaints related to chest pain. The patient's symptoms are primarily focused on shortness of breath, cough, fever, chills, and worsening respiratory status, which suggests a primary pulmonary illness rather than a cardiac issue. Additionally, there is no specific notation or concern raised about chest pain in the report.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1197107320_4468458235.txt
+Result: The patient does not present with chest pains. The report states that the patient has "some mild chest pain concerning for influenza, coronavirus, pneumonia, PE, pericarditis, pneumothorax" but later notes that the chest pain is likely secondary to musculoskeletal chest pain secondary to myalgias from his influenza.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/805191345_751271097.txt
+Result: The patient in this report does not present chest pains. The chief complaint is ear pain, and there is no mention of any symptoms or complaints related to the chest or heart, such as chest tightness, pressure, or pain. The physical exam also does not mention any cardiac findings, and the vital signs are normal with a regular rate and rhythm.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/805191345_751618429.txt
+Result: According to the report, the patient does not present with chest pains. The chief complaint is ear pain, and the history of present illness describes symptoms such as myalgias, cough, congestion, nausea, and flu-like symptoms, but no mention of chest pain or any cardiac-related complaints. Additionally, the physical exam findings do not suggest any cardiac issues, such as tachycardia, palpitations, or chest tenderness.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1193443328_4462112237.txt
+Result: Based on the discharge summary, there is no mention of chest pains or any cardiac-related complaints. The patient's chief complaint is a fever, cough, muscle aches, and dry nonproductive cough, which are symptoms consistent with influenza-like illness. The physical examination does not mention any abnormal findings related to the cardiovascular system. Therefore, it can be concluded that the patient does not present with chest pains.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1194635574_4461920081.txt
+Result: According to the report, the patient does NOT present with chest pains. The physical examination section states:
+
+"Heart: Regular rate and rhythm. Normal peripheral perfusion."
+
+Additionally, the respiratory section notes:
+
+"LUNGS: Airway patent. Breath sounds clear bilaterally. No wheezing or crackles. No increased work of breathing."
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/875862123_780459997.txt
+Result: After reviewing the report, I did not find any mention of chest pains or discomfort in the patient's symptoms. The patient's primary complaints are shortness of breath and right-sided pleuritic chest pain, but there is no indication that the patient experienced actual chest pains.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191609731_4469664482.txt
+Result: According to the report, the patient does not present with chest pains. In fact, under the "PHYSICAL EXAMINATION" section, it is mentioned that:
+
+"CHEST: Clear to auscultation."
+
+This suggests that the patient's chest examination is normal and there are no signs of respiratory distress or cardiac issues, which would typically include symptoms such as chest pain. Additionally, the report does not mention any chest pain complaints in the "HISTORY OF PRESENT ILLNESS" section, further supporting the conclusion that the patient does not present with chest pains.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191655777_4464900888.txt
+Result: According to the report, the patient does NOT present with chest pains. The report states:
+
+"Chest pain: Bilateral."
+
+This suggests that the patient experiences bilateral chest pain, which is not necessarily related to a cardiac issue. Additionally, the report mentions "No palpitations" under the Cardiovascular section, indicating that the patient's heart rhythm is normal.
+
+However, it's important to note that the patient presents with other symptoms such as shortness of breath, cough, and sputum production, which may be related to their respiratory or lung issues.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191609731_4465453484.txt
+Result: Based on the report, it does not mention the patient presenting with chest pains. The patient's chief complaint is nausea, vomiting, and shortness of breath, which are unrelated to chest pain. There is no mention of any cardiac symptoms or concerns in the history of present illness, physical examination, or review of systems sections.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/805191345_750465339.txt
+Result: According to the report, there is no mention of chest pains or any symptoms related to cardiac issues. The patient's vital signs are also normal, with a temperature within the normal range and no indication of tachycardia or hypertension. Therefore, it can be determined that this patient does not present with chest pain.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191655777_4464352206.txt
+Result: Based on the report, the patient does not present with chest pains. In fact, the patient's chief complaint is shortness of breath, and under the "Chief Complaint" section, it states that she has had cough and shortness of breath for three weeks, but also mentions chest tightness, which is likely related to her asthma exacerbation rather than cardiac-related chest pain.
+
+Additionally, under the "Physical Exam" section, there is no mention of any abnormal findings in the cardiovascular system, such as murmurs, rubs, or gallops. The patient's vital signs are listed as normal, with a heart rate of 117 beats per minute, which is also within normal limits for a tachycardic patient.
+
+The electrocardiogram (ECG) report does not show any evidence of acute ischemia or malignant arrhythmia, and the chest x-ray shows an unchanged heart size, normal mediastinum, no infiltrate or pneumothorax.
+
+Overall, there is no indication in this report that the patient presents with chest pains.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191609731_4469269441.txt
+Result: After reviewing the report, I did not find any mention of chest pains or complaints related to the patient's chest. The patient's chief complaint is nausea, vomiting, shortness of breath, and diarrhea, which are all related to their gastrointestinal symptoms rather than cardiac issues. There is no indication in the report that the patient has experienced any chest pain or discomfort.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1191609731_4465444100.txt
+Result: After reviewing the report, I found that there is no mention of chest pain or any related symptoms. The patient's main complaint was shortness of breath, which was treated symptomatically and did not show any evidence of pulmonary embolism (PE) or infiltrate on examination. Therefore, it can be determined that this patient does not present with chest pains.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1175940552_4480615003.txt
+Result: Based on the report, I can determine that the patient does NOT present with chest pains. The report states:
+
+"HEART: Regular rate and rhythm. No murmurs, rubs, or gallops. No JVD, no LE edema."
+
+Additionally, the ECG (Electrocardiogram) report is also normal, indicating a normal sinus rhythm without any signs of ischemia or cardiac issues.
+
+Furthermore, there is no mention of chest pain or discomfort in the patient's chief complaint or in the differential diagnosis section. The patient's symptoms are primarily related to cough and influenza, not cardiac issues.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1197107320_4460806173.txt
+Result: According to the report, the patient does present with chest pain. In fact, it is stated multiple times in the report:
+
+* "He reports some minor diarrhea as well as myalgias and he does not know of any recent sick contacts, however he did go out drinking with his buddies 2 days ago and he reports that there were likely many sick people in the bar. He denies any recent travel outside the city of Pittsburgh. He is also reporting some chest pain that is very similar nature to his myalgias."
+* "CHIEF COMPLAINT: Flulike symptoms... He reports some minor diarrhea as well as myalgias and he does report some chest pain that is very similar nature to his myalgias."
+* "Chest: Endorses chest pain."
+
+So, the patient's chief complaint is flulike symptoms, which includes a sore throat, fever, myalgias (muscle aches), and mild nonradiating pressure-like sensation on his chest, which he describes as similar to his myalgias.
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1193443328_4462135566.txt
+Result: Based on the report, the patient does not present with chest pains. Under the "Review of Systems" section, it is specifically stated that:
+
+"Cardiovascular: No chest pain, No palpitations."
+
+Additionally, under the "Physical Examination" section, it is noted that:
+
+"Cardiovascular: Normal rate, Regular rhythm, No edema."
+
+Report: /Users/sfern4850/Documents/Hillman_Academy_2024/PythonAutomation/upmc_clinical_er_discharge/1175940552_4481993582.txt
+Result: I'd be happy to help!
+
+Please provide the report, and I'll do my best to identify whether the patient presents with chest pains or not.
+
+(.venv) sfern4850@Shauns-MacBook-Air PythonAutomation % 
